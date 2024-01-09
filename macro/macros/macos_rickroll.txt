@@ -1,0 +1,9 @@
+SEND: WINDOWS+SPACE
+SLEEP: 0.1
+WRITE: terminal
+SLEEP: 0.2
+SEND: ENTER
+SLEEP: 0.75
+SEND: WINDOWS+N
+WRITE: open www.youtube.com/watch?v=dQw4w9WgXcQ
+SEND: ENTER

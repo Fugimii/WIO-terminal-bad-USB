@@ -1,0 +1,6 @@
+SEND: WINDOWS+T
+SLEEP: 0.5
+WRITE: firefox www.youtube.com/watch?v=dQw4w9WgXcQ
+SEND: ENTER
+SLEEP: 5
+SEND: SPACE

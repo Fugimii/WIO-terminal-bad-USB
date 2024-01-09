@@ -1,0 +1,4 @@
+lib/
+
+# MacOS desktop metadata files
+.DS_Store

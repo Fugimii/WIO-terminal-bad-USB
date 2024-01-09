@@ -1,0 +1,8 @@
+SEND: WINDOWS+R
+WRITE: CMD
+SEND: ENTER
+SLEEP: 0.25
+WRITE: start "" www.youtube.com/watch?v=dQw4w9WgXcQ
+SEND: ENTER
+SLEEP: 5
+SEND: SPACE
